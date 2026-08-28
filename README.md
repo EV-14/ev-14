@@ -2,7 +2,7 @@
 
 :computer: :rocket: **Pragmatic Programmer**
 
-### :zap: Actividad reciente
+### :zap: Recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [EV-14/ev-14](https://github.com/EV-14/ev-14)<br>
 2. ⬆️ Pushed undefined commit(s) to [EV-14/mi-primer-repositorio](https://github.com/EV-14/mi-primer-repositorio)<br>
