@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:computer: :rocket: **Pragmatic Programmer**
+:computer: :rocket: <kbd>Pragmatic Programmer</kbd>
 
 ### :zap: Recent activity
 <!--RECENT_ACTIVITY:start-->
