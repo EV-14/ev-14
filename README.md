@@ -3,4 +3,5 @@
 :computer: :rocket: **Pragmatic Programmer**
 
 ### :zap: Actividad reciente
-![Recent activity](./metrics.plugin.activity.svg)
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
