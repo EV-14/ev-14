@@ -24,14 +24,14 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: lowlighter/metrics@v3.34
+      - uses: lowlighter/metrics@v3.33
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 7
           plugin_activity_days: 0
-          plugin_activity_filter: push
+          plugin_activity_filter: push, pr
           debug: yes
